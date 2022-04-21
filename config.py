@@ -1,3 +1,3 @@
 PREFIX = "-"
 
-TOKEN = "OTYyOTMxODk2MDcxODgwNzA0.YlOuNg.8wjVFF_NeHe0LNEQTqCILgYposc"
+TOKEN = ""
